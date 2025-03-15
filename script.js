@@ -34,6 +34,15 @@ const questions = [
             { text: "alert()", correct: false },
             { text: "log()", correct: false },
         ]
+    },
+    {
+        question: "Which of the following keywords is used to define a variable in Javascript?",
+        answers: [
+            { text: "var", correct: false },
+            { text: "let", correct: false },
+            { text: "Both A and B", correct: true },
+            { text: "None of the above", correct: false },
+        ]
     }
 ];
 
